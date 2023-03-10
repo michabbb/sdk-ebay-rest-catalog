@@ -1,0 +1,13 @@
+{
+  "packageName": "sdk-ebay-rest-catalog",
+  "composerVendorName": "macropage",
+  "composerProjectName": "sdk-ebay-rest-catalog",
+  "invokerPackage": "macropage\\SDKs\\ebay\\rest\\catalog",
+  "modelPackage": "Model",
+  "apiPackage": "API",
+  "variableNamingConvention": "camelCase",
+  "srcBasePath": "src",
+  "gitUserId": "macropage",
+  "gitRepoId": "sdk-ebay-rest-catalog",
+  "validateSpec": false
+}
